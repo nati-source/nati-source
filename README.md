@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on porject traking sytem
 - 🌱 I’m currently learning sql,c++
 - 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with sertaficats
-- 💬 Ask me about some works 
+- 🤔 I’m looking for help with certificates
+- 💬 Ask me about some..... 
 - 📫 How to reach me 😒 sitanati@gmail.come
 - 😄 Pronouns 👀
 - ⚡ Fun fact: The term “bug” in programming became famous in 1947 when engineers found a real moth stuck in a computer relay at Harvard. They taped it into the logbook and wrote “First actual case of bug being found.” 🦋
